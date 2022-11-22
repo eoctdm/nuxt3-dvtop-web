@@ -1,0 +1,99 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+a{
+  text-decoration: none;
+}
+.app-width{
+  width: 900px;
+}
+.app-flex{
+  display: flex;
+}
+.app-flex-wrap{
+  flex-wrap: wrap;
+}
+.app-align-center{
+  align-items: center;
+}
+.app-justify-between{
+  justify-content: space-between;
+}
+.app-justify-center{
+  justify-content: center;
+}
+.app-header{
+  background-color: #24292f;
+  color: #FFFFFF;
+  padding: 12px 0;
+}
+.app-title{
+  font-size: 16px;
+  img{
+    height: 20px;
+    margin-right: 3px;
+  }
+}
+.app-color-white{
+  color: white;
+}
+.app-color-grey{
+  color: #888888;
+}
+.app-bgcolor-green{
+  background-color: #42b883;
+}
+.app-bgcolor-grey{
+  background-color: #f1f1f1;
+}
+.app-button{
+  padding: 8px 20px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+.app-margin-left-big{
+  margin-left: 40px;
+}
+.app-margin-top-big{
+  margin-top: 40px;
+}
+.app-margin-top-small{
+  margin-top: 10px;
+}
+.app-description{
+  padding: 80px 0;
+}
+.app-text-center{
+  text-align: center;
+}
+.app-text-bigger{
+  font-size: 26px;
+}
+.app-text-big{
+  font-size: 20px;
+}
+.app-text-normal{
+  font-size: 16px;
+}
+.app-text-small{
+  font-size: 12px;
+}
+.app-text-lighter{
+  font-weight: lighter;
+}
+.app-features{
+  width: 300px;
+  padding: 20px 10px;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box; /* Firefox /
+  -webkit-box-sizing:border-box; / Safari */
+}
+.app-footer{
+  padding: 30px 0;
+}
+.app-qrcode{
+  width: 66px;
+  height: 66px;
+}
