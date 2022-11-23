@@ -4,7 +4,7 @@
       <div class="app-width app-flex app-align-center app-justify-between">
         <div class="app-flex app-align-center app-title">
           <div><img src="/resource/img/nuxt-logo.png"></div>
-          <div>{{homepage.title}}</div>
+          <h1>{{homepage.title}}</h1>
         </div>
         <div>
           <NuxtLink :to="homepage.github.href" :external="true" 
@@ -37,7 +37,9 @@
         </div>
         <div class="app-flex app-justify-center app-align-center">
             <div><img class="app-qrcode" src="/resource/img/qrcode.jpg"></div>
-            <div style="margin-left: 10px;">微信扫码关注“Nuxt”微信订阅号，手机浏览Nuxt3中文开发教程。</div>
+            <div style="margin-left: 10px;width: 350px;text-align: left;text-indent: 2em;">
+              微信扫码关注“Nuxt”微信订阅号，获取Nuxt3中文开发教程，手把手教您使用Nuxt3框架开发混合渲染、服务端渲染或客户端渲染的应用程序。
+            </div>
         </div>
       </div>
     </div>

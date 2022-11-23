@@ -1,5 +1,5 @@
 export default {
-  title: "Nuxt3-手把手教您使用Nuxt3框架-Nuxt3中文开发教程",
+  title: "手把手教您使用Nuxt3框架-Nuxt3中文开发教程",
   keywords: 'Nuxt3,Vue3,中文开发教程,示例源码,混合渲染,服务端渲染,客户端渲染',
   description: '教程适合Nuxt3初学者学习和实践，资深者快速参考，爱好者持续跟踪新功能和最佳实践。',
   summary: "86页教程，95个章节，35类示例源代码。",
@@ -13,7 +13,7 @@ export default {
   },
   download: {
     href: "https://www.dvtop.cn/nuxt/examples/3.0.0/more/source-code",
-    title: "教程和源码下载"
+    title: "教程和示例源码下载"
   },
   releases: [{
     nuxt3: {
@@ -22,7 +22,7 @@ export default {
     },
     chinese: {
       href: "https://www.dvtop.cn/nuxt/examples/3.0.0/more/source-code",
-      title: "中文开发教程和源码包(更新于2022-11-22)"
+      title: "中文开发教程和示例源码包(更新于2022-11-23)"
     }
   }],
   features: [{
